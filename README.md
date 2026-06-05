@@ -41,11 +41,11 @@ movie-recommendation-system/
 │
 ├── app.py
 ├── movies.pkl
-├── similarity.pkl
 ├── requirements.txt
+├── runtime.txt
 ├── tmdb_5000_movies.csv
 ├── tmdb_5000_credits.csv
-├── Movies-Recommendation.ipynb
+├── Movies-Recommendation.ipynbw
 └── README.md
 ```
 
